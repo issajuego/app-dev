@@ -7,7 +7,7 @@ My first repository
 
 | Movies | Series |
 | ----------- | ----------- |
-| Harry Potter: Chamber of Secrets | Breaking Bad |
+| Harry Potter: Prisoner of Azkaban | Breaking Bad |
 | Lord of the Rings | Peeky Blinders |
 | The Hobbit | Narco Mexico |
 
