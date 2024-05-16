@@ -1,8 +1,11 @@
 # app-dev
 My first repository
 
--- 
-| Syntax | Description |
+---
+## **My Top Favorite Movies and Series**
+
+| Movies | Series |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Harry Potter: Chamber of Secrets | Breaking Bad |
+| Lord of the Rings | Peeky Blinders |
+| The Hobbit | Narco Mexico |
